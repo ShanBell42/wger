@@ -81,6 +81,47 @@ file for details). You will also probably want to set `DJANGO_DEBUG to false
 If you prefer a local installation, consult the
 [development documentation](https://wger.readthedocs.io/en/latest/development.html)
 
+## Instructions for Use
+
+### Create New Nutrition Plan
+
+1. Select “Nutrition” on the top app bar, and click on “Nutrition Plans”.
+2. Select the floating addition icon on the bottom right of the screen.
+3. The pop-up screen allows you to name your nutrition plan,
+   along with selecting two options.
+  * Option one: Toggles calorie-only mode in the nutrition log. When deselected,
+    the user can assign ingredients into planned “meals” for ease of logging.
+    Otherwise, all logs are assigned by individual ingredients
+  * Option two: Toggles macronutrient goals. The user will enter consumption goals for protein,
+    carbohydrates and fats along with overall calories.
+
+Once in the nutrition plan, there are two sections. The top section is where diary entries
+and meals are created, along with estimated macronutrient totals. The lower section shows
+what macronutrients have already been logged, along with a graph of macronutrient totals
+and averages in the past week.
+
+#### Add Diary Entry
+
+1. To add a diary entry, click on the writing icon in the “Other logs” card.
+   Hovering over it will say “Add nutrition diary entry”.
+2. Once opened, the user can search for food or ingredients and enter the tracked
+   unit value for the food. The date and time will can be set for previous entries if needed.
+   Once finished, press “Submit” and the macronutrient totals will appear on the “Logged” section of the screen.
+
+To add a meal, the user will click on the plus sign underneath the “Other logs” card to open up two
+entry boxes for a meal name and time. Clicking “Submit” will add that meal to a new card above the “Other logs” card.
+
+#### Create Meal
+
+1. To create a meal, the user will click on the plus sign in the meal card, where the user can
+   search for food and enter the amount of food in the meal then “Submit” to add to the meal card.
+   This can be for as many times as needed to finish the ingredients of the meal.
+3. Once the food has been added to the meal, the meal can be added in whole to the nutrition log
+   by clicking the writing icon in the top right of the meal card.
+
+Both cards can be extended to give more detail about what has been logged from each.
+Meal cards will show how much of the day’s total has come from the meal.
+
 ## Contact
 
 Feel free to contact us if you found this useful or if there was something that
