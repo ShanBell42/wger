@@ -105,15 +105,16 @@ and averages in the past week.
 1. To add a diary entry, click on the writing icon in the “Other logs” card.
    Hovering over it will say “Add nutrition diary entry”.
 2. Once opened, the user can search for food or ingredients and enter the tracked
-   unit value for the food. The date and time will can be set for previous entries if needed.
-   Once finished, press “Submit” and the macronutrient totals will appear on the “Logged” section of the screen.
-
-To add a meal, the user will click on the plus sign underneath the “Other logs” card to open up two
-entry boxes for a meal name and time. Clicking “Submit” will add that meal to a new card above the “Other logs” card.
+   unit value for the food. The date and time will can be set for previous entries
+   if needed. Once finished, press “Submit” and the macronutrient totals will
+   appear on the “Logged” section of the screen.
 
 #### Create Meal
 
-1. To create a meal, the user will click on the plus sign in the meal card, where the user can
+1. To add a meal, the user will click on the plus sign underneath the “Other logs” card
+   to open up two entry boxes for a meal name and time. Clicking “Submit” will add that
+   meal to a new card above the “Other logs” card.
+2. To add food to a meal, the user will click on the plus sign in the meal card, where the user can
    search for food and enter the amount of food in the meal then “Submit” to add to the meal card.
    This can be for as many times as needed to finish the ingredients of the meal.
 3. Once the food has been added to the meal, the meal can be added in whole to the nutrition log
